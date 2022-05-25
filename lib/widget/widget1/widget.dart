@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import '';
 
 class Widget1 extends StatefulWidget {
   const Widget1({ Key? key }) : super(key: key);

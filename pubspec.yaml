@@ -12,7 +12,6 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_native_splash: ^2.2.1
-
   cupertino_icons: ^1.0.2
 
 dev_dependencies:
@@ -26,5 +25,4 @@ flutter:
   uses-material-design: true
 
 assets:
-    - assets/icons/
     - assets/images/
